@@ -70,7 +70,7 @@ docs/
 │       └── chat.md      # AI 对话
 ├── guide/               # 入门指南
 │   ├── preface.md       # 前言
-│   └── api-error.md     # 错误码
+│   └── api-error.md     # 错误
 └── index.md             # 首页
 ```
 
@@ -80,14 +80,3 @@ docs/
 2. 使用本项目提供的 API 接口需遵守小米相关服务条款
 3. 本项目中的数据示例均为虚拟模拟数据，非真实数据
 4. 如因使用本项目造成任何损失，作者不承担任何责任
-
-## 📄 许可证
-
-[MIT](LICENSE) License © 2026 [xorubys](https://github.com/xorubys)
-
----
-
-<p align="center">
-  <a href="https://github.com/xorubys/mimo-v2-web">GitHub</a> •
-  <a href="https://xorubys.github.io/mimo-v2-web/">在线文档</a>
-</p>
